@@ -3,11 +3,13 @@
 
 ## How to reach me
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='30'>](https://www.linkedin.com/in/gabrielcdev/)
-[<img src='https://img.shields.io/badge/instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=white' alt='youtube' height='30'>](https://www.instagram.com/karodluv/)
-
+[<img src='https://img.shields.io/badge/instagram-a10d37?style=for-the-badge&logo=instagram&logoColor=white' alt='youtube' height='30'>](https://www.instagram.com/karodluv/)
+```zsh 
+gabriel.cordeiro.b.v@gmail.com
+```
 ### Program Lenguages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=blue) 
 
 <!-- ### Databases -->
 
@@ -15,12 +17,11 @@
 
 ### Utils
 
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white) 
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white) 
 
 ### OS
-![Windows](https://img.shields.io/badge/Windows-316192?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-316192?style=for-the-badge&logo=linux&logoColor=white)
-
+![Windows](https://img.shields.io/badge/Windows-074095?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-2a3045?style=for-the-badge&logo=linux&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcordeiro2&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
