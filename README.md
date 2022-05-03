@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/gabrielcordeiro2/aad596e64778c7558762f498f88027e1/raw/35a64708ebaf8ed1efbbcda195167f01aa4df970/githubcard.svg"/>
+<img align="right" height="590em" src="https://gist.githubusercontent.com/gabrielcordeiro2/aad596e64778c7558762f498f88027e1/raw/0d7ae9c61f0a0e7aaec825c6589ce8e17ce29c5b/githubcard.svg"/>
 <h1 align="left">Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, nice to meet you.</h1>
 
 ## How to reach me
