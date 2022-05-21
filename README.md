@@ -3,7 +3,7 @@
 
 ## How to reach me
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='30'>](https://www.linkedin.com/in/gabrielcdev/)
-[<img src='https://img.shields.io/badge/instagram-a10d37?style=for-the-badge&logo=instagram&logoColor=white' alt='youtube' height='30'>](https://www.instagram.com/karodluv/)
+[<img src='https://img.shields.io/badge/instagram-a10d37?style=for-the-badge&logo=instagram&logoColor=white' alt='instagram' height='30'>](https://www.instagram.com/krd.gabriel/)
 ```zsh 
 gabriel.cordeiro.b.v@gmail.com
 ```
