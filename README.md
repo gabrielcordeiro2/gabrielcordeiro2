@@ -16,7 +16,9 @@
 ### Utils
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white) 
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000.svg?&style=for-the-badge&logo=Git&logoColor=red)
+
 
 ### OS
 ![Windows](https://img.shields.io/badge/Windows-074095?style=for-the-badge&logo=windows&logoColor=white)
