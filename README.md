@@ -1,14 +1,14 @@
+<img align="right" height="500em" src="https://user-images.githubusercontent.com/100642061/173202394-11f05595-21af-4cfe-95c7-d76fb1ebbd03.gif">
+
+### About me 📊
 <div>
-<img align="right" height="500em" src="https://user-images.githubusercontent.com/100642061/173198036-f4fa7552-69cf-4c2f-9e45-52e866b2ffe2.gif"> 
-</div>
-   
-<div>
-<h3 align="left">Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="50em">, nice to meet you. </h1>
+   <h6 align="left">"A Data Scientist that loves math and apply his knowledge to solve problems."
 </div>
 
 ### How to reach me
-[<img src='https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue' alt='linkedin' height='30'>](https://www.linkedin.com/in/gabrielcdev/)
-[<img src='https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram&logoColor=a10d37' alt='instagram' height='30'>](https://www.instagram.com/krd.gabriel/)
+
+   [<img height='30' src='https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue' alt='linkedin'>](https://www.linkedin.com/in/gabrielcdev/)
+   [<img height='30' src='https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram&logoColor=a10d37' alt='instagram'>](https://www.instagram.com/krd.gabriel/)
 
 ### Program Lenguages
 <div>
