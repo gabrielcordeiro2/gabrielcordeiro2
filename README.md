@@ -1,4 +1,6 @@
+<div>
 <img align="right" height="500em" src="https://user-images.githubusercontent.com/100642061/173202394-11f05595-21af-4cfe-95c7-d76fb1ebbd03.gif">
+</div>
 
 ### About me 📊
 <div>
@@ -6,7 +8,6 @@
 </div>
 
 ### How to reach me
-
    [<img height='30' src='https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue' alt='linkedin'>](https://www.linkedin.com/in/gabrielcdev/)
    [<img height='30' src='https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram&logoColor=a10d37' alt='instagram'>](https://www.instagram.com/krd.gabriel/)
 
