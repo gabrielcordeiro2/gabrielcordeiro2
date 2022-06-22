@@ -23,7 +23,7 @@
 </div>
 
 
-### IDE / Tools / OS
+### IDE / Tools / Systems
 <div>
   <img src="https://img.shields.io/badge/VS_Code-000?style=for-the-badge&logo=visual%20studio&logoColor=5C2D91"/>
   <img src="https://img.shields.io/badge/Jupyter-000?&style=for-the-badge&logo=Jupyter&logoColor=F37626"/>
