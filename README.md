@@ -29,11 +29,11 @@
 <div>
   <img src="https://img.shields.io/badge/VS_Code-000?style=for-the-badge&logo=visual%20studio&logoColor=5C2D91"/>
   <img src="https://img.shields.io/badge/Jupyter-000?&style=for-the-badge&logo=Jupyter&logoColor=F37626"/>
+  <img src="https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=Pandas&logoColor=0b3578"/>
   <img src="https://img.shields.io/badge/Git-000.svg?&style=for-the-badge&logo=Git&logoColor=red"/>
   <img src="https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=Postman&logoColor=F37626"/>
   <img src="https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=blue"/>
   <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux-mint&logoColor=87CF3E"/>
-  <img src="https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=Pandas&logoColor=0b3578"/>
 </div>
 
 ### Github Stats
