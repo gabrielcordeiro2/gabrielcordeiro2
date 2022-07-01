@@ -14,7 +14,8 @@
 
 ### Program Lenguages
 <div>
-  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/Bash-000?style=for-the-badge&logo=GNU%20Bash&logoColor=green"/>
 </div>
 
 
