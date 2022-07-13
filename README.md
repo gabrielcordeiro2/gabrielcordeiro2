@@ -4,7 +4,7 @@
 
 ### About me 📊
 <div>
-   <h6 align="left">"A Data Scientist that likes math and apply his knowledge to solve problems."
+   <h6 align="left">"A Data Scientist that likes web scraping, animes and apply his knowledge to solve problems."
 </div>
 
 ### How to reach me
