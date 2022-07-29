@@ -1,9 +1,10 @@
 <img align="right" height="500em" src="https://user-images.githubusercontent.com/100642061/173202394-11f05595-21af-4cfe-95c7-d76fb1ebbd03.gif">
 
 ### About me 📊
-<div>
-   <h6>"A Data Engineer that likes web scraping, animes and apply his knowledge to solve problems."</h6>
-</div>
+
+<h6>A Data Engineer that likes web scraping, animes and apply his knowledge to solve problems.</h6>
+<h6>I'm studying Computer Science at @ <a href="https://www.cruzeirodosul.edu.br/">UNICSUL</a></h6>
+
 
 ### How to reach me
 <div>
