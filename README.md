@@ -26,12 +26,13 @@
   <img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=61DAFB"/>
 </div>
 
-### IDE / Tools / Systems
+### Tools / Systems / Frameworks
 <div>
   <img src="https://img.shields.io/badge/VS_Code-000?style=for-the-badge&logo=visual%20studio&logoColor=5C2D91"/>
   <img src="https://img.shields.io/badge/Jupyter-000?&style=for-the-badge&logo=Jupyter&logoColor=F37626"/>
   <img src="https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=Pandas&logoColor=0b3578"/>
   <img src="https://img.shields.io/badge/Git-000.svg?&style=for-the-badge&logo=Git&logoColor=red"/>
+  <img src="https://img.shields.io/badge/Flask-000.svg?&style=for-the-badge&logo=Flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Selenium-000?style=for-the-badge&logo=Selenium&logoColor=76bc2f"/>
   <img src="https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=Postman&logoColor=F37626"/>
   <img src="https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=blue"/>
