@@ -2,7 +2,7 @@
 
 ### About me 📊
 
-<h6>A Data Analyst that likes web scraping, animes and apply his knowledge to solve problems.</h6>
+<h6>A Data guy that likes web scraping, animes and apply his knowledge to solve problems.</h6>
 <h6>I'm studying Computer Science at @ <a href="https://www.cruzeirodosul.edu.br/">UNICSUL</a></h6>
 
 
