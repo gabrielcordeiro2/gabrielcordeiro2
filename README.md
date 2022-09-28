@@ -1,4 +1,6 @@
-<img align="right" height="500em" src="https://user-images.githubusercontent.com/100642061/173202394-11f05595-21af-4cfe-95c7-d76fb1ebbd03.gif">
+[comment]: # (<img align="right" height="500em" src="https://user-images.githubusercontent.com/100642061/173202394-11f05595-21af-4cfe-95c7-d76fb1ebbd03.gif">)
+
+<img align="right" height="500em" src="https://user-images.githubusercontent.com/100642061/192906466-75ba2a25-fe01-47f9-a356-dcba6e0ea75b.gif">
 
 ### About me 📊
 
