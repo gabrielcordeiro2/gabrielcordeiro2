@@ -12,8 +12,6 @@
 <div>
    <a href="https://www.linkedin.com/in/gabrielcdev/" target="_blank"><img height='30' src='https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue' alt='Linkedin'></a>
    <a href="https://www.instagram.com/krd.gabriel/" target="_blank"><img height='30' src='https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram&logoColor=a10d37' alt='Instagram'></a>
-   <a href="https://api.whatsapp.com/send?phone=5519989347714&text=Ol%C3%A1%2C%20vim%20pelo%20github." target="_blank"><img height='30' src='https://img.shields.io/badge/-Whatsapp-000?style=for-the-badge&logo=Whatsapp&logoColor=2EC866' alt='Whatsapp'></a>
-   <a href="https://www.hackerrank.com/gabrielcdev" target="_blank"><img height='30' src='https://img.shields.io/badge/-Hackerrank-000?style=for-the-badge&logo=HackerRank&logoColor=2EC866' alt='Hackerrank'></a>
 </div>
 
 ### Program Lenguages
@@ -22,17 +20,21 @@
   <img src="https://img.shields.io/badge/Bash-000?style=for-the-badge&logo=GNU%20Bash&logoColor=green"/>
 </div>
 
-### Databases
+### Databases & Cloud
 <div>
   <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=green"/>
-  <img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-000?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=red"/>
+  <img src="https://img.shields.io/badge/microsoft%20azure-000?style=for-the-badge&logo=microsoft-azure&logoColor=61DAFB"/>
 </div>
 
 ### Tools / Systems / Frameworks
 <div>
   <img src="https://img.shields.io/badge/Jupyter-000?&style=for-the-badge&logo=Jupyter&logoColor=F37626"/>
   <img src="https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=Pandas&logoColor=0b3578"/>
+  <img src="https://img.shields.io/badge/Databricks-000?style=for-the-badge&logo=Databricks&logoColor=a10d37"/>
+  <img src="https://img.shields.io/badge/power_bi-000.svg?&style=for-the-badge&logo=powerbi&logoColor=yellow"/>
   <img src="https://img.shields.io/badge/Flask-000.svg?&style=for-the-badge&logo=Flask&logoColor=white"/>
+  
   <img src="https://img.shields.io/badge/Selenium-000?style=for-the-badge&logo=Selenium&logoColor=76bc2f"/>
   <img src="https://img.shields.io/badge/Git-000.svg?&style=for-the-badge&logo=Git&logoColor=red"/>
   <img src="https://img.shields.io/badge/VS_Code-000?style=for-the-badge&logo=visual%20studio&logoColor=5C2D91"/>
