@@ -43,6 +43,17 @@
   <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux-mint&logoColor=87CF3E"/>
 </div>
 
+### Badges
+
+<div aling="center">
+  <a href="https://www.credly.com/badges/3daae0b2-8378-4d82-8797-7261ce31de17/public_url">
+    <img src="https://user-images.githubusercontent.com/100642061/208327479-8ab05259-857c-4912-a374-1481dea18fb8.png" height="120" width="120">
+  </a>
+  <a href="https://www.credly.com/badges/a693e915-3f90-40ed-9185-e1c8b090e475/public_url">
+    <img src="https://user-images.githubusercontent.com/100642061/208327482-11e42cd8-fd1f-4c8f-a363-9cad9cbb65a2.png" height="120" width="120">
+  </a>
+</div>
+
 ### Github Stats
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcordeiro2&layout=compact&theme=radical" width="350"/>
