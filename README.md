@@ -43,7 +43,7 @@
   <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux-mint&logoColor=87CF3E"/>
 </div>
 
-### Badges
+### Certifications
 
 <div aling="center">
   <a href="https://www.credly.com/badges/3daae0b2-8378-4d82-8797-7261ce31de17/public_url">
