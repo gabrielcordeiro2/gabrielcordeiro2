@@ -52,6 +52,9 @@
   <a href="https://www.credly.com/badges/a693e915-3f90-40ed-9185-e1c8b090e475/public_url">
     <img src="https://user-images.githubusercontent.com/100642061/208327482-11e42cd8-fd1f-4c8f-a363-9cad9cbb65a2.png" height="120" width="120">
   </a>
+  <a href="https://www.credly.com/badges/02ec1ee5-3a24-4edc-b4da-c136a320bbf3/public_url">
+    <img src="https://user-images.githubusercontent.com/100642061/210006195-47219773-da27-49be-89f5-6489a6af406d.png" height="120" width="120">
+  </a>
 </div>
 
 ### Github Stats
