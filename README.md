@@ -30,6 +30,7 @@
 ### Tools / Systems / Frameworks
 <div>
   <img src="https://img.shields.io/badge/Jupyter-000?&style=for-the-badge&logo=Jupyter&logoColor=F37626"/>
+  <img src="https://img.shields.io/badge/Docker-000?&style=for-the-badge&logo=Docker&logoColor=Blue"/>
   <img src="https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=Pandas&logoColor=0b3578"/>
   <img src="https://img.shields.io/badge/Databricks-000?style=for-the-badge&logo=Databricks&logoColor=a10d37"/>
   <img src="https://img.shields.io/badge/power_bi-000.svg?&style=for-the-badge&logo=powerbi&logoColor=yellow"/>
