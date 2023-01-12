@@ -57,8 +57,3 @@
     <img src="https://user-images.githubusercontent.com/100642061/210006195-47219773-da27-49be-89f5-6489a6af406d.png" height="120" width="120">
   </a>
 </div>
-
-### Github Stats
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcordeiro2&layout=compact&theme=radical" width="350"/>
-</div>
