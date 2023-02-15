@@ -24,18 +24,21 @@
 <div>
   <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=green"/>
   <img src="https://img.shields.io/badge/SQL%20Server-000?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=red"/>
+  <img src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=4EA94B"/>
   <img src="https://img.shields.io/badge/microsoft%20azure-000?style=for-the-badge&logo=microsoft-azure&logoColor=61DAFB"/>
+  
 </div>
 
 ### Tools / Systems / Frameworks
 <div>
-  <img src="https://img.shields.io/badge/Jupyter-000?&style=for-the-badge&logo=Jupyter&logoColor=F37626"/>
-  <img src="https://img.shields.io/badge/Docker-000?&style=for-the-badge&logo=Docker&logoColor=Blue"/>
-  <img src="https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=Pandas&logoColor=0b3578"/>
   <img src="https://img.shields.io/badge/Databricks-000?style=for-the-badge&logo=Databricks&logoColor=a10d37"/>
-  <img src="https://img.shields.io/badge/power_bi-000.svg?&style=for-the-badge&logo=powerbi&logoColor=yellow"/>
   <img src="https://img.shields.io/badge/Flask-000.svg?&style=for-the-badge&logo=Flask&logoColor=white"/>
-  
+  <img src="https://img.shields.io/badge/kubernetes-000.svg?&style=for-the-badge&logo=kubernetes&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/Docker-000?&style=for-the-badge&logo=Docker&logoColor=Blue"/>
+  <img src="https://img.shields.io/badge/Azure_Functions-000?style=for-the-badge&logo=azure-functions&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/power_bi-000.svg?&style=for-the-badge&logo=powerbi&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=Pandas&logoColor=0b3578"/>
+  <img src="https://img.shields.io/badge/Jupyter-000?&style=for-the-badge&logo=Jupyter&logoColor=F37626"/>
   <img src="https://img.shields.io/badge/Selenium-000?style=for-the-badge&logo=Selenium&logoColor=76bc2f"/>
   <img src="https://img.shields.io/badge/Git-000.svg?&style=for-the-badge&logo=Git&logoColor=red"/>
   <img src="https://img.shields.io/badge/VS_Code-000?style=for-the-badge&logo=visual%20studio&logoColor=5C2D91"/>
