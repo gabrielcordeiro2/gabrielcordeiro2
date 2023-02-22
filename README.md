@@ -26,7 +26,6 @@
   <img src="https://img.shields.io/badge/SQL%20Server-000?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=red"/>
   <img src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=4EA94B"/>
   <img src="https://img.shields.io/badge/microsoft%20azure-000?style=for-the-badge&logo=microsoft-azure&logoColor=61DAFB"/>
-  
 </div>
 
 ### Tools / Systems / Frameworks
@@ -50,6 +49,9 @@
 ### Certifications
 
 <div aling="center">
+  <a href="https://www.credly.com/badges/cd60d231-cb11-44f9-bdb4-3ce16037665d/public_url">
+    <img src="https://user-images.githubusercontent.com/100642061/220777898-4149bf6e-be3b-429a-84c6-2a2f19f6c057.png" height="120" width="120">
+  </a>
   <a href="https://www.credly.com/badges/3daae0b2-8378-4d82-8797-7261ce31de17/public_url">
     <img src="https://user-images.githubusercontent.com/100642061/208327479-8ab05259-857c-4912-a374-1481dea18fb8.png" height="120" width="120">
   </a>
