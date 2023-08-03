@@ -26,13 +26,16 @@
   <img src="https://img.shields.io/badge/SQL%20Server-000?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=red"/>
   <img src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=4EA94B"/>
   <img src="https://img.shields.io/badge/microsoft%20azure-000?style=for-the-badge&logo=microsoft-azure&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/google%20cloud-000?style=for-the-badge&logo=google-cloud&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/Amazon_AWS-000?style=for-the-badge&logo=amazonaws&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/google%20cloud-000?style=for-the-badge&logo=google-cloud&logoColor=blue"/>
 </div>
 
 ### Tools / Systems / Frameworks
 <div>
   <img src="https://img.shields.io/badge/Databricks-000?style=for-the-badge&logo=Databricks&logoColor=a10d37"/>
   <img src="https://img.shields.io/badge/Flask-000.svg?&style=for-the-badge&logo=Flask&logoColor=white"/>
+   
+  <img src="https://img.shields.io/badge/kubernetes-000.svg?&style=for-the-badge&logo=kubernetes&logoColor=blue"/>
   <img src="https://img.shields.io/badge/Docker-000?&style=for-the-badge&logo=Docker&logoColor=Blue"/>
   <img src="https://img.shields.io/badge/Azure_Functions-000?style=for-the-badge&logo=azure-functions&logoColor=yellow"/>
   <img src="https://img.shields.io/badge/power_bi-000.svg?&style=for-the-badge&logo=powerbi&logoColor=yellow"/>
@@ -61,4 +64,11 @@
   <a href="https://www.credly.com/badges/02ec1ee5-3a24-4edc-b4da-c136a320bbf3/public_url">
     <img src="https://user-images.githubusercontent.com/100642061/210006195-47219773-da27-49be-89f5-6489a6af406d.png" height="120" width="120">
   </a>
+  <a href="https://www.credly.com/badges/f2bb367f-8905-4528-9be9-28233f441fd9/public_url">
+    <img src="https://github.com/gabrielcordeiro2/gabrielcordeiro2/assets/100642061/83644cdf-535a-4522-a0af-7aa2a75e8258" height="120" width="120">
+  </a>
+  <a href="https://www.credly.com/badges/f2bb367f-8905-4528-9be9-28233f441fd9/public_url">
+    <img src="https://github.com/gabrielcordeiro2/gabrielcordeiro2/assets/100642061/19e67f8e-e366-4905-8dda-518a70a1bd8f" height="120" width="120">
+  </a>
+   
 </div>
