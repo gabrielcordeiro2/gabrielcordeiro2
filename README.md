@@ -70,5 +70,4 @@
   <a href="https://www.credly.com/badges/f2bb367f-8905-4528-9be9-28233f441fd9/public_url">
     <img src="https://github.com/gabrielcordeiro2/gabrielcordeiro2/assets/100642061/19e67f8e-e366-4905-8dda-518a70a1bd8f" height="120" width="120">
   </a>
-   
 </div>
