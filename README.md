@@ -52,6 +52,12 @@
 ### Certifications
 
 <div aling="center">
+   <a href="https://credentials.databricks.com/7aa90ffe-39a8-49b3-97c7-a0dc5cf8c8ca#acc.sinlhpmO">
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/159633958" height="120" width="120">
+  </a>
+   <a href="https://credentials.databricks.com/0bb15e6c-b06a-4566-b6d8-7f44aac6e026#acc.zRLtCkAx">
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/157758290" height="120" width="120">
+  </a>
   <a href="https://www.credly.com/badges/cd60d231-cb11-44f9-bdb4-3ce16037665d/public_url">
     <img src="https://user-images.githubusercontent.com/100642061/220777898-4149bf6e-be3b-429a-84c6-2a2f19f6c057.png" height="120" width="120">
   </a>
